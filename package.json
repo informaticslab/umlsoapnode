@@ -1,0 +1,10 @@
+{
+    "name": "umlsoapnode",
+    "description": "UMLS Soap accessed by Node",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "soap": "*",
+        "properties-reader": "*"
+    }
+}
